@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Esha Mukhtar
 
-<!--
-**eshamukhtar754/eshamukhtar754** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Software Engineer | Front-End Developer
 
-Here are some ideas to get you started:
+I am a Computer Science student at Virtual University with a passion for building modern, user-friendly, and responsive applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Technical Skills
+
+- HTML5
+- CSS3
+- JavaScript
+- React
+- C++
+- Python
+- SQL
+- Git
+- GitHub
+
+### 🚀 Featured Projects
+
+- Expense Tracker
+- Weather Forecast App
+- Library Management System
+
+### 🌱 Currently Learning
+
+- React.js
+- Node.js
+- MERN Stack
+
+### 🎯 Career Goal
+
+Seeking jobs and entry-level Software Engineering opportunities to contribute, learn, and grow as a developer.
+
+### 📫 Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/esha-mukhtar-2a8477382/
