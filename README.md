@@ -17,7 +17,6 @@ I am a Computer Science student at Virtual University with a passion for buildin
 - GitHub
 - Node.js
 - Data Structure
-
 ### 🚀 Featured Projects
 
 - Expense Tracker
