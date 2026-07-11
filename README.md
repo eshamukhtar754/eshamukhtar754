@@ -23,6 +23,7 @@ I am a Computer Science student at Virtual University with a passion for buildin
 - Expense Tracker
 - Weather Forecast App
 - Library Management System
+- Task Management App
 
 ### 🌱 Currently Learning
 
