@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Esha Mukhtar
 
-## Software Engineer | Front-End Developer
+## Software Engineer 
 
 I am a Computer Science student at Virtual University with a passion for building modern, user-friendly, and responsive applications.
 
