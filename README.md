@@ -5,20 +5,19 @@
 I am a Computer Science student at Virtual University with a passion for building modern, user-friendly, and responsive applications.
 
 ### 💻 Technical Skills
-
-- HTML5
-- CSS3
-- JavaScript
-- React
-- C++
-- Python Programming with AI
-- SQL
-- Git
-- GitHub
 - Node.js
 - Express.js
 - Data Structure
 - Mongodb
+- JavaScript
+- HTML5
+- React.js
+- C++
+- SQL
+- Python Programming with AI
+- Git
+- GitHub
+- CSS3
 ### 🚀 Featured Projects
 
 - Expense Tracker
