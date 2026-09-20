@@ -1,8 +1,8 @@
 #  Hi, I'm Esha Mukhtar
 
-## Software Engineer 
+## Full Stack Software Engineer 
 
-I am a Computer Science student at Virtual University with a passion for building modern, user-friendly, and responsive applications.
+I am a Computer Science student at Virtual University passionate about building modern, responsive, and user-friendly applications. I work across both frontend and backend development, with experience in different technologies. I enjoy developing full-stack applications, building REST APIs, working with databases, and turning ideas into practical software solutions.
 
 ### 💻 Technical Skills
 - Node.js
