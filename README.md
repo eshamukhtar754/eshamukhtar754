@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Esha Mukhtar
+#  Hi, I'm Esha Mukhtar
 
 ## Software Engineer 
 
